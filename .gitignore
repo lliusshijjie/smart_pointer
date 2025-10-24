@@ -1,0 +1,24 @@
+# CMake build directory
+build/
+[Bb]uild/
+[Cc]make*/
+
+# IDE-specific files
+.vscode/
+.vs/
+*.suo
+*.user
+
+# Compiled files
+*.exe
+*.dll
+*.lib
+*.so
+*.a
+*.out
+
+# Other
+*.log
+*.tmp
+*.temp
+[Tt]est/
